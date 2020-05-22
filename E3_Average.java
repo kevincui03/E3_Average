@@ -69,7 +69,7 @@ public class E3_Average {
                 System.out.println(num2 + " is equal to the average");
             } else if (num2 > average) {
                 System.out.println(num2 + " is above the average");
-            }
+            } //outputs each mark
             
         }
     }
